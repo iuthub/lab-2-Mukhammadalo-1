@@ -1,0 +1,26 @@
+p   {
+    color: white;
+    
+}
+body {
+    background-color: rgb(97, 93, 93);
+}
+h1,h2,h3,h5,h6 {
+    color:rgb(34, 146, 221);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+h4 {
+    color:yellowgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+a {
+    color: red;
+}
+ul,ol{
+    color: rgb(241, 234, 234)
+}
+em{
+    color:white;
+}
